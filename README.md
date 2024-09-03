@@ -1,1 +1,1 @@
-# chili-
+# chili-xfce-wallpapers

@@ -1,7 +1,8 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
+# Contribuitor: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
+pkgname=chili-xfce-wallpapers
+pkgdesc="Papéis de parede para o ChiliLinux XFCE"
 #depends=('')
 #makedepends=('')
 #optdepends=('')
